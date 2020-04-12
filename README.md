@@ -1,2 +1,1 @@
-# googlehp_project
-Practice project for copying Google homepage
+Test project for copying Google's search page
